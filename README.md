@@ -1,2 +1,2 @@
 # qsub_all
-Automatically submit sequest PBS jobs to the queue
+Automatically submit ThermoRawFileParser PBS jobs to the queue
